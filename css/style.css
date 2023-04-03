@@ -1,0 +1,33 @@
+body, html{
+    background-color: #ebecf0;
+}
+
+body, p, input, select, textarea, button{
+    font-family: 'montserrat', sans-serif;
+    font-size: 16px;
+}
+  
+div, h1{
+    color: #858585;
+    text-shadow: 1px 1px 1px #fff;
+}
+  
+form{
+    padding: 50px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: -2px -2px 5px #fff, 2px 2px 5px #babecc;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+}
+  
+.section{
+    display: grid;
+    justify-content: center;
+    margin-top: 100px;
+}
+  
+.segment{
+    padding: 32px 0;
+    text-align: center;
+}
