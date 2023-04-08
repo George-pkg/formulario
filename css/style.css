@@ -43,7 +43,7 @@ button, input{
   }
   
 label{
-display: block;
-margin-bottom: 24px;
-width: 100%;
+    display: block;
+    margin-bottom: 24px;
+    width: 100%;
 }
