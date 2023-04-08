@@ -88,3 +88,9 @@ button .unit{
     margin: 0 8px;
     font-size: 19.2px;
 }
+
+button.cinza{
+    display: block;
+    width: 100%;
+    color: #777777;
+}
