@@ -42,8 +42,8 @@ button, input{
     text-shadow: 1px 1px 0 #fff;
   }
   
-  label{
-    display: block;
-    margin-bottom: 24px;
-    width: 100%;
-  }
+label{
+display: block;
+margin-bottom: 24px;
+width: 100%;
+}
